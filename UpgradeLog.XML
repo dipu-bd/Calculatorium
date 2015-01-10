@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Calculatorium">
+</Property><Property Name="Solution File" Value="D:\Projects\Visual C# 2008\Calculatorium\Calculatorium.sln">
+</Property><Property Name="User Options File" Value="D:\Projects\Visual C# 2008\Calculatorium\Calculatorium.suo">
+</Property><Property Name="Date" Value="Thursday, January 01, 2004">
+</Property><Property Name="Time" Value="0:24 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Calculatorium.sln" Description="File successfully backed up as D:\Projects\Visual C# 2008\Calculatorium\Backup\Calculatorium.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Calculatorium.suo" Description="File successfully backed up as D:\Projects\Visual C# 2008\Calculatorium\Backup\Calculatorium.suo">
+</Event><Event ErrorLevel="0" Project="Calculatorium" Source="Calculatorium\Calculatorium.csproj" Description="Project file successfully backed up as D:\Projects\Visual C# 2008\Calculatorium\Backup\Calculatorium\Calculatorium.csproj">
+</Event><Event ErrorLevel="0" Project="Calculatorium" Source="Calculatorium\Calculatorium.csproj.user" Description="Project user file successfully backed up as D:\Projects\Visual C# 2008\Calculatorium\Backup\Calculatorium\Calculatorium.csproj.user">
+</Event><Event ErrorLevel="0" Project="Calculatorium" Source="Calculatorium\Evaluation.cs" Description="File successfully backed up as D:\Projects\Visual C# 2008\Calculatorium\Backup\Calculatorium\Evaluation.cs">
+</Event><Event ErrorLevel="0" Project="Calculatorium" Source="Calculatorium\Form1.cs" Description="File successfully backed up as D:\Projects\Visual C# 2008\Calculatorium\Backup\Calculatorium\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Calculatorium" Source="Calculatorium\Form1.Designer.cs" Description="File successfully backed up as D:\Projects\Visual C# 2008\Calculatorium\Backup\Calculatorium\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Calculatorium" Source="Calculatorium\messages.cs" Description="File successfully backed up as D:\Projects\Visual C# 2008\Calculatorium\Backup\Calculatorium\messages.cs">
+</Event><Event ErrorLevel="0" Project="Calculatorium" Source="Calculatorium\Program.cs" Description="File successfully backed up as D:\Projects\Visual C# 2008\Calculatorium\Backup\Calculatorium\Program.cs">
+</Event><Event ErrorLevel="0" Project="Calculatorium" Source="Calculatorium\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Projects\Visual C# 2008\Calculatorium\Backup\Calculatorium\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Calculatorium" Source="Calculatorium\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Projects\Visual C# 2008\Calculatorium\Backup\Calculatorium\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Calculatorium" Source="Calculatorium\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Projects\Visual C# 2008\Calculatorium\Backup\Calculatorium\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Calculatorium" Source="Calculatorium\app.config" Description="File successfully backed up as D:\Projects\Visual C# 2008\Calculatorium\Backup\Calculatorium\app.config">
+</Event><Event ErrorLevel="0" Project="Calculatorium" Source="Calculatorium\Properties\app.manifest" Description="File successfully backed up as D:\Projects\Visual C# 2008\Calculatorium\Backup\Calculatorium\Properties\app.manifest">
+</Event><Event ErrorLevel="0" Project="Calculatorium" Source="Calculatorium\Properties\Settings.settings" Description="File successfully backed up as D:\Projects\Visual C# 2008\Calculatorium\Backup\Calculatorium\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Calculatorium" Source="Calculatorium\Resources\Constants.txt" Description="File successfully backed up as D:\Projects\Visual C# 2008\Calculatorium\Backup\Calculatorium\Resources\Constants.txt">
+</Event><Event ErrorLevel="0" Project="Calculatorium" Source="Calculatorium\Untitled - 1.ico" Description="File successfully backed up as D:\Projects\Visual C# 2008\Calculatorium\Backup\Calculatorium\Untitled - 1.ico">
+</Event><Event ErrorLevel="0" Project="Calculatorium" Source="Calculatorium\Form1.resx" Description="File successfully backed up as D:\Projects\Visual C# 2008\Calculatorium\Backup\Calculatorium\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Calculatorium" Source="Calculatorium\Properties\Resources.resx" Description="File successfully backed up as D:\Projects\Visual C# 2008\Calculatorium\Backup\Calculatorium\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="Calculatorium" Source="Calculatorium\Calculatorium.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Calculatorium" Source="Calculatorium\Calculatorium.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Calculatorium" Source="Calculatorium\Calculatorium.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Calculatorium.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Calculatorium.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Calculatorium" Source="Calculatorium\Calculatorium.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

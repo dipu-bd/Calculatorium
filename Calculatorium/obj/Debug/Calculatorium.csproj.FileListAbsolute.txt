@@ -1,0 +1,15 @@
+D:\Projects\Visual C# 2008\Calculatorium\Calculatorium\obj\Debug\Calculatorium.exe
+D:\Projects\Visual C# 2008\Calculatorium\Calculatorium\obj\Debug\Calculatorium.pdb
+D:\Projects\Visual C# 2008\Calculatorium\Calculatorium\bin\Debug\Calculatorium.exe.manifest
+D:\Projects\Visual C# 2008\Calculatorium\Calculatorium\bin\Debug\Calculatorium.application
+D:\Projects\Visual C# 2008\Calculatorium\Calculatorium\bin\Debug\Calculatorium.exe
+D:\Projects\Visual C# 2008\Calculatorium\Calculatorium\bin\Debug\Calculatorium.pdb
+D:\Projects\Visual C# 2008\Calculatorium\Calculatorium\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Visual C# 2008\Calculatorium\Calculatorium\obj\Debug\Calculatorium.Form1.resources
+D:\Projects\Visual C# 2008\Calculatorium\Calculatorium\obj\Debug\Calculatorium.Properties.Resources.resources
+D:\Projects\Visual C# 2008\Calculatorium\Calculatorium\obj\Debug\Calculatorium.TrustInfo.xml
+D:\Projects\Visual C# 2008\Calculatorium\Calculatorium\obj\Debug\Calculatorium.exe.manifest
+D:\Projects\Visual C# 2008\Calculatorium\Calculatorium\obj\Debug\Calculatorium.application
+D:\Projects\Visual C# 2008\Calculatorium\Calculatorium\bin\Debug\Calculatorium.exe.config
+D:\Projects\Visual C# 2008\Calculatorium\Calculatorium\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\Visual C# 2008\Calculatorium\Calculatorium\obj\Debug\GenerateResource-ResGen.write.1.tlog
